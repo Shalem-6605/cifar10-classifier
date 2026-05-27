@@ -1,6 +1,7 @@
 flask
 tensorflow
-pillow
 numpy
 matplotlib
 scikit-learn
+pillow
+gunicorn
