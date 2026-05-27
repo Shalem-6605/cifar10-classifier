@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 flask
 tensorflow
 numpy
@@ -6,12 +5,3 @@ matplotlib
 scikit-learn
 pillow
 gunicorn
-=======
-flask
-tensorflow
-numpy
-matplotlib
-scikit-learn
-pillow
-gunicorn
->>>>>>> 0236a05 (Clean requirements.txt and finalize dependencies)
