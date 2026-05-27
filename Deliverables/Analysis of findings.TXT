@@ -1,0 +1,4 @@
+    Our experiments showed that adding Dropout improved generalization by reducing overfitting, 
+while Data Augmentation boosted accuracy by ~3%. The baseline CNN achieved 76% test accuracy, 
+and MobileNetV2 transfer learning reached 82%. Batch Normalization sped up convergence. 
+Overall, the combination of augmentation and dropout provided the best balance of accuracy and stability.

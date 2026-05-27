@@ -1,0 +1,57 @@
+body {
+    margin: 0;
+    font-family: Inter, system-ui, sans-serif;
+    color: var(--text);
+    background: linear-gradient(135deg, #e6e6fa 0%, #d8bfd8 100%);
+}
+
+
+
+/* Make the container wider and roomier */
+.classifier-container {
+    max-width: 1200px;   /* much wider */
+    padding: 50px;
+    font-size: 22px;     /* scale up all text */
+}
+
+
+h1 {
+    color: #333;
+    font-size: 42px;       /* larger title */
+    margin-bottom: 30px;
+}
+
+form {
+    margin: 30px;
+    font-size: 22px;       /* bigger form text */
+}
+
+button {
+    padding: 16px 32px;    /* larger button */
+    font-size: 20px;
+    background-color: #0078D7;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+button:hover {
+    background-color: #005a9e;
+}
+
+#result {
+    margin-top: 30px;
+    font-size: 26px;       /* larger prediction text */
+    font-weight: bold;
+}
+
+/* Uploaded photo larger */
+img {
+    width: 600px;       /* scale up to 600px wide */
+    height: 600px;      /* stretch height equally */
+    image-rendering: pixelated; /* keeps sharp edges instead of blur */
+    margin-top: 30px;
+    border-radius: 12px;
+    border: 3px solid #ccc;
+}
+
