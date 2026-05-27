@@ -1,0 +1,19 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore virtual environments
+venv/
+.env/
+
+# Ignore large model files
+*.h5
+*.keras
+*.pkl
+
+# Ignore system files
+.DS_Store
+Thumbs.db
