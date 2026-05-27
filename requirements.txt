@@ -1,7 +1,16 @@
+<<<<<<< HEAD
 flask
 tensorflow
 numpy
 matplotlib
 scikit-learn
 pillow
+=======
+flask
+tensorflow
+numpy
+matplotlib
+scikit-learn
+pillow
+>>>>>>> 4524adfdbefeb5a7a09e8b509c2428599442fd4d
 gunicorn
