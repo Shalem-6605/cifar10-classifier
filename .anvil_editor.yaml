@@ -1,7 +1,7 @@
 unique_ids:
-  assets: {}
-  forms:
-    Form1: '1780005425150410372694757.44'
+  assets:
+    index..html: '1780006201935894345784671.0481'
+  forms: {}
   modules: {}
   scripts: {}
   server_modules: {}
