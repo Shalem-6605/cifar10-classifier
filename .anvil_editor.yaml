@@ -1,7 +1,12 @@
 unique_ids:
   assets:
+    cifar10_model.h5: '1780006810108105339528833.50061'
+    index-checkpoint.html: '1780006372364896378434041.5952'
     index..html: '1780006201935894345784671.0481'
+    style-checkpoint.css: '1780006499198144272208730.29645'
+    style.css: '1780006481524581977239372.3861'
   forms: {}
   modules: {}
   scripts: {}
-  server_modules: {}
+  server_modules:
+    ServerPackage1: '1780006634397540460402874.7491'

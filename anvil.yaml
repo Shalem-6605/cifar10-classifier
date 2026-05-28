@@ -1,11 +1,13 @@
+metadata: {title: Cifar-10 Image Classifier}
 native_deps:
   head_html: |2
 
     <style>
       .anvil-panel-section-container { padding: 0 15px; }
     </style>
+package_name: Cifar_10_Image_Classifier
 runtime_options:
-  client_version: '2'
+  client_version: '3'
   server_spec: {base: python310-machine-learning}
   server_version: python3-sandbox
   version: 2
